@@ -5,6 +5,7 @@
  *      Author: user
  */
 // Prata.cpp - выводит информацию на экран
+
 #include <iostream>
 int main()
 {
