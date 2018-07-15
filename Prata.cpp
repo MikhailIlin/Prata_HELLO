@@ -14,6 +14,7 @@ int main()
 	cout << "Come up and C++ me some time.";
 	cout << endl;
 	cout << "You won't regred it!" << endl;
+	cout << "и, кстати: hello world!!!";
 	return 0;
 }
 

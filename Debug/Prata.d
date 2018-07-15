@@ -1,1 +1,0 @@
-Prata.o: ../Prata.cpp
